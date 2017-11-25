@@ -22,7 +22,13 @@ git commit -m “Insert message here”
 
 git log (check the commits that are made)
 
-
+REMOTE
+//create remote repository add HTTPs at url
+usage: git remote add [<options>] <name> <url>
+  
+ //push create repository to remote
+ git push -u origin master
+ 
 ———
 ## Navigating in the Terminal
 
