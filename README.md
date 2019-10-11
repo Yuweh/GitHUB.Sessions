@@ -58,9 +58,7 @@ Ability to provide add a descriptive message with the request
 
 ### Pull Request
 
-
-
-https://i.stack.imgur.com/iUcsn.jpg
+<img src="https://i.stack.imgur.com/iUcsn.jpg" width="300">
 
 
 ### Merge Request
@@ -83,7 +81,7 @@ Similarly, if you want to execute a git pull or use git merge in order to explic
 This way you can regularly do something like git pull --ff-only without thinking, and then if it errors out you can go back and decide if you want to merge or rebase.
 
 
-https://i.stack.imgur.com/GGkZc.png
+<img src="https://i.stack.imgur.com/GGkZc.png" width="300">
 
 REF: https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff
 
